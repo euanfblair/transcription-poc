@@ -1,0 +1,18 @@
+SPEAKER: S1
+Hi, I'd like to buy a Chromecast and I was wondering whether you could help me with that.
+SPEAKER: S2
+Certainly. Which color would you like? We have blue, black and red.
+SPEAKER: S1
+Uh, let's go with the black one.
+SPEAKER: S2
+Would you like the new Chromecast Ultra model or the regular Chromecast?
+SPEAKER: S1
+Regular Chromecast is fine, thank you.
+SPEAKER: S2
+Okay, sure. Would you like to ship it regular or express?
+SPEAKER: S1
+Express, please.
+SPEAKER: S2
+Terrific. It's on the way. Thank you.
+SPEAKER: S1
+Thank you very much. Bye.

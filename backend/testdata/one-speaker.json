@@ -1,0 +1,664 @@
+{
+  "format": "2.9",
+  "job": {
+    "created_at": "2026-10-22T13:16:22.166Z",
+    "data_name": "output.wav",
+    "duration": 15,
+    "id": "dc3tjkkv5w"
+  },
+  "metadata": {
+    "created_at": "2026-10-22T13:16:27.586503Z",
+    "language_pack_info": {
+      "adapted": false,
+      "itn": true,
+      "language_description": "English",
+      "word_delimiter": " ",
+      "writing_direction": "left-to-right"
+    },
+    "orchestrator_version": "2026.10.16+91ae7ad669+16.4.0",
+    "transcription_config": {
+      "language": "en",
+      "model": "enhanced",
+      "operating_point": "enhanced"
+    },
+    "type": "transcription"
+  },
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "Welcome",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 1.36,
+      "start_time": 0.88,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "to",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 1.44,
+      "start_time": 1.36,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "Speechmatics",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 2.44,
+      "start_time": 1.48,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ".",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 2.44,
+      "is_eos": true,
+      "start_time": 2.44,
+      "type": "punctuation"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "We're",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 3.24,
+      "start_time": 3.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "delighted",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 3.64,
+      "start_time": 3.24,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "that",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 3.8,
+      "start_time": 3.64,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "you've",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 4.04,
+      "start_time": 3.8,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "decided",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 4.44,
+      "start_time": 4.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "to",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 4.56,
+      "start_time": 4.44,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "try",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 4.92,
+      "start_time": 4.56,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "our",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 5.2,
+      "start_time": 4.92,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "speech",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 5.52,
+      "start_time": 5.2,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "to",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 5.6,
+      "start_time": 5.52,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "text",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 5.92,
+      "start_time": 5.64,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "software",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 6.56,
+      "start_time": 5.92,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ".",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 6.56,
+      "is_eos": true,
+      "start_time": 6.56,
+      "type": "punctuation"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "To",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 7.2,
+      "start_time": 7.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "get",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 7.44,
+      "start_time": 7.24,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "going",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 7.88,
+      "start_time": 7.44,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ",",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 7.88,
+      "is_eos": false,
+      "start_time": 7.88,
+      "type": "punctuation"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "just",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 8.16,
+      "start_time": 7.92,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "create",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 8.48,
+      "start_time": 8.16,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "an",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 8.68,
+      "start_time": 8.48,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "API",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 9.04,
+      "start_time": 8.68,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "key",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 9.4,
+      "start_time": 9.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "and",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 9.6,
+      "start_time": 9.4,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "submit",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 9.92,
+      "start_time": 9.6,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "a",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 10.04,
+      "start_time": 9.96,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "transcription",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 10.68,
+      "start_time": 10.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "request",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 11.04,
+      "start_time": 10.68,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "to",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 11.16,
+      "start_time": 11.04,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "our",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 11.36,
+      "start_time": 11.16,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "API",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 11.92,
+      "start_time": 11.36,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ".",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 11.92,
+      "is_eos": true,
+      "start_time": 11.92,
+      "type": "punctuation"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "We",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 12.4,
+      "start_time": 12.28,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "hope",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 12.6,
+      "start_time": 12.44,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "you'll",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 12.8,
+      "start_time": 12.6,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "be",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 12.88,
+      "start_time": 12.8,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "very",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 13.08,
+      "start_time": 12.88,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "impressed",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 13.4,
+      "start_time": 13.08,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "by",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 13.6,
+      "start_time": 13.4,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "the",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 13.68,
+      "start_time": 13.6,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "results",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 14.36,
+      "start_time": 13.68,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ".",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 14.36,
+      "is_eos": true,
+      "start_time": 14.36,
+      "type": "punctuation"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "Thank",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 15.08,
+      "start_time": 14.8,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": "you",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "end_time": 15.44,
+      "start_time": 15.08,
+      "type": "word"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 1.0,
+          "content": ".",
+          "language": "en",
+          "speaker": "UU"
+        }
+      ],
+      "attaches_to": "previous",
+      "end_time": 15.44,
+      "is_eos": true,
+      "start_time": 15.44,
+      "type": "punctuation"
+    }
+  ]
+}
